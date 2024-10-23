@@ -6,3 +6,7 @@ raw_data/alignment_json/*
 raw_data/raw_transcript/*
 !raw_data/raw_transcript/test.txt
 Project Docs
+data/audio/*
+!data/audio/aligned_test_sample.wav
+data/transcript/*
+!data/transcript/aligned_test_sample.txt
