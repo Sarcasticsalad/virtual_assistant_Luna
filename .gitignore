@@ -1,5 +1,5 @@
 venv/
-audio/
-alignment_json/
-transcript/
+audio/*
+alignment_json/*
+transcript/*
 Project Docs
