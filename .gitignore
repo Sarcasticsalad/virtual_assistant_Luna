@@ -1,5 +1,8 @@
 venv/
-audio/*
-alignment_json/*
-transcript/*
+data/audio/*
+!data/audio/test.wav
+data/alignment_json/*
+!data/alignment_json/test_audio.json
+data/transcript/*
+!data/transcript/test.txt
 Project Docs
