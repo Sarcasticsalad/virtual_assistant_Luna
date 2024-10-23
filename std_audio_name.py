@@ -4,7 +4,7 @@ import os
 source_path = "./Samrajya_Audio"
 
 # Target Directory
-target_path = "./data/audio"
+target_path = "./raw_data/raw_audio"
 
 def Rename_Files():
     # Index to track file number
